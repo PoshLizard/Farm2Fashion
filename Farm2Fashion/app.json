@@ -1,4 +1,9 @@
 {
   "name": "Farm2Fashion",
-  "displayName": "Farm2Fashion"
+  "displayName": "Farm2Fashion",
+  "expo": {
+    "fonts": {
+      "Limelight": "./src/assets/fonts/Limelight-Regular.ttf"
+    }
+  }
 }
